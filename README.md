@@ -11,8 +11,9 @@ passions: ['performarce web' 'web development' ]
 You can find me:
 [Linkedin] (https://www.linkedin.com/in/ivon-madrid-277b02ba/)
 [Email] madridivon7@gmail.com
-Here are some ideas to get you started:
+
 [![ivon4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivon4)](https://github.com/anuraghazra/github-readme-stats)
+Here are some ideas to get you started:
 
 
 <!--
