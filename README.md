@@ -10,9 +10,9 @@ passions: ['performarce web' 'web development' ]
 ....
 
 You can find me:
-[Linkedin] -https://www.linkedin.com/in/ivon-madrid-277b02ba/
+[Linkedin] (https://www.linkedin.com/in/ivon-madrid-277b02ba/)
 [Email] madridivon7@gmail.com
-
+[![ivon4's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivon4)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
@@ -20,7 +20,7 @@ You can find me:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-[![ivon4's GitHub stats]-https://github-readme-stats.vercel.app/api?username=ivon4)](https://github.com/anuraghazra/github-readme-stats
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
