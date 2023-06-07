@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Ivon Madrid</h1>
 <h3 align="center">Desarrollador frontend apasionado de España</h3>
-![readme gif](https://github.com/ivon4/ivon4/assets/127293745/b0d3cf81-b86b-41f1-a6e6-0f3817b67986)
+![readme 3](https://github.com/ivon4/ivon4/assets/127293745/635f838f-136f-441d-b53b-e6443c616dd1)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivon4&show_icons=true&locale=en&layout=compact" alt="ivon4" /> </p>
