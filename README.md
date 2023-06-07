@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Ivon Madrid</h1>
 ![readme 3](https://github.com/ivon4/ivon4/assets/127293745/635f838f-136f-441d-b53b-e6443c616dd1)
-
+https://github.com/ivon4/ivon4/issues/6#issue-1746548194
 <h3 align="center">Desarrollador frontend apasionado de España</h3>
 
 
