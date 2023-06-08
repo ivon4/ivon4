@@ -8,7 +8,7 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
   I have experience working with various programming languages, frameworks and tools, which has allowed me to acquire solid skills in software and web development. I'm always willing to learn and collaborate with other developers on innovative projects.
     
    ### 👉 Programming languages 
-   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
