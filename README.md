@@ -57,8 +57,8 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   
-   <a href="https://https://www.linkedin.com/in/ivon-madrid" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+
+   <a href="https://www.linkedin.com/in/ivon-madrid/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
    
 <a href="https://discord.gg/ivon#6517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ivon#6517" height="30" width="40" /></a>
 
