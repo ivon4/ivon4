@@ -4,7 +4,9 @@
 
 
 I am a Full Stack Web Developer, passionate about technology and in continuous training, this progresses very quickly... :rocket:   
-   
+
+  I have experience working with various programming languages, frameworks and tools, which has allowed me to acquire solid skills in software and web development. I'm always willing to learn and collaborate with other developers on innovative projects.
+    
    ### 👉 Programming languages 
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -33,15 +35,19 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
  <p align="left">   
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a></p>
+      <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+ <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+</p>
    
 ### 👉 Software & Tools
       
   <p align="left">  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-   
+   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
+   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  </p>
 
   
@@ -57,10 +63,9 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivon-madrid/" target="blank"><img align="center" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivon-madrid/" height="30" width="40" /></a>
+   
+   <a href="https://https://www.linkedin.com/in/ivon-madrid//" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
    
 <a href="https://discord.gg/ivon#6517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ivon#6517" height="30" width="40" /></a>
-</p>
- 
- <a href="mailto:madridivon7@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+
+ <a href="mailto:madridivon7@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-EMAIL-red?&style=for-the-badge&logo=mail.ru&logoColor=white" /></a></p>
