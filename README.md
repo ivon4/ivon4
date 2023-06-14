@@ -44,7 +44,7 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  </p>
-  
+  <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivon4&show_icons=true&locale=en&layout=compact" alt="ivon4" </p>
  
 
