@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋,Welcome to my GitHub profile.</h1>
 
-![readme 5](https://github.com/ivon4/ivon4/assets/127293745/8690a3c7-7b97-4d78-a000-dd7d1ddf2cec)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ivon+Madrid;I'm+from+Spain;I+Graduated+Full+Stack+Web+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 I am a Full Stack Web Developer, passionate about technology and in continuous training, this progresses very quickly... :rocket:   
 
