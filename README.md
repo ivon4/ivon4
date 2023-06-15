@@ -46,12 +46,12 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
  </p>
   <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivon4&show_icons=true&locale=en&layout=compact" alt="ivon4" </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivon4&show_icons=true&locale=en&layout=compact" alt="ivon4" 
  
 <br>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivon4&show_icons=true&locale=en" alt="ivon4" /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivon4&show_icons=true&locale=en" alt="ivon4" /> 
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivon4&" alt="ivon4" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivon4&" alt="ivon4" />
 
 
 
