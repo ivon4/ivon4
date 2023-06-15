@@ -50,7 +50,7 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
  
 <br>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivon4&show_icons=true&locale=en" alt="ivon4" /> </p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivon4&" alt="ivon4" /></p>
 
 
