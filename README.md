@@ -48,9 +48,9 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
 
 <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=ivon4&show_icons=true&locale=en&layout=compact" alt="ivon4" /> </p>
 
-<p align="right"><img  src="https://github-readme-stats.vercel.app/api?username=ivon4&show_icons=true&locale=en" alt="ivon4" />  </p> 
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api?username=ivon4&show_icons=true&locale=en" alt="ivon4" />  </p> 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivon4&" alt="ivon4" />  </p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivon4&" alt="ivon4" />  </p>
 
 
 
