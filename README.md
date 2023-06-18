@@ -10,8 +10,7 @@ I am a Full Stack Web Developer, passionate about technology and in continuous t
     
    ### 👉 Programming languages 
   
-   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-</p>
+  <p align="left">   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 👉 Frontend Development
  <p align="left"> 
